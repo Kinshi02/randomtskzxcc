@@ -1,7 +1,7 @@
 # randomtskzxcc
 Программа для создания рандомной задачи на день
 markdown
-# Weather Diary
+# Random Task Generator
 **Автор:** Елистратов Егор
 **Вариант:** №1 Random Task Generator
 **Дата сдачи:** 30.04.2026
